@@ -2,5 +2,5 @@
 // This file contains a public anon key, not a service-role key. Never put a service-role key here.
 window.DAYFLOW_CONFIG = {
   url: "https://YOUR_PROJECT_ID.supabase.co",
-  anonKey: "YOUR_SUPABASE_PUBLISHABLE_OR_ANON_KEY"
+  anonKey: "sb_publishable_Bg9EOLDUHIoJ6s5r7U6wPQ_vYUY9z4P"
 };
